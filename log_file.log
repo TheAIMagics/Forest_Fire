@@ -1,0 +1,752 @@
+06/03/2022 04:44:57 PM:INFO:demo:{db_name} already exists! Please chose different one
+06/03/2022 04:46:35 PM:INFO:demo:{db_name} already exists! Please chose different one
+06/03/2022 04:56:58 PM:INFO:demo:{db_name} already exists! Please chose different one
+06/03/2022 04:57:02 PM:INFO:demo:{db_name} already exists! Please chose different one
+06/03/2022 04:57:02 PM:INFO:demo:{db_name} already exists! Please chose different one
+06/03/2022 04:57:55 PM:INFO:demo:{db_name} already exists! Please chose different one
+06/03/2022 04:59:52 PM:INFO:demo:{db_name} already exists! Please chose different one
+06/03/2022 05:02:00 PM:INFO:demo:{db_name} already exists! Please chose different one
+06/03/2022 05:07:22 PM:INFO:demo:Database Database(MongoClient(host=['cluster0-shard-00-01.oxgpt.mongodb.net:27017', 'cluster0-shard-00-02.oxgpt.mongodb.net:27017', 'cluster0-shard-00-00.oxgpt.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-th8ou3-shard-0', tls=True), 'batch_data') present
+06/03/2022 05:07:22 PM:INFO:demo:Collection regression_batch present
+06/03/2022 05:11:01 PM:INFO:demo:Database batch_data present
+06/03/2022 05:11:01 PM:INFO:demo:Collection regression_batch present
+06/03/2022 05:11:51 PM:INFO:demo:Database batch_data present
+06/03/2022 05:11:51 PM:INFO:demo:Collection regression_batch present
+06/03/2022 05:11:51 PM:INFO:demo:Fetching records from collection
+06/03/2022 05:14:23 PM:INFO:demo:Database batch_data present
+06/03/2022 05:14:23 PM:INFO:demo:Collection regression_batch present
+06/03/2022 05:14:23 PM:INFO:demo:Fetching records from collection
+06/03/2022 05:18:29 PM:INFO:demo:Database batch_data present
+06/03/2022 05:18:29 PM:INFO:demo:Collection regression_batch present
+06/03/2022 05:18:29 PM:INFO:demo:Fetching records from collection
+06/03/2022 05:18:33 PM:INFO:demo:Database batch_data present
+06/03/2022 05:18:33 PM:INFO:demo:Database batch_data present
+06/03/2022 05:18:33 PM:INFO:demo:Collection regression_batch present
+06/03/2022 05:18:33 PM:INFO:demo:Collection regression_batch present
+06/03/2022 05:18:33 PM:INFO:demo:Fetching records from collection
+06/03/2022 05:18:33 PM:INFO:demo:Fetching records from collection
+06/03/2022 06:10:06 PM:INFO:demo:Database batch_data present
+06/03/2022 06:10:06 PM:INFO:demo:Collection regression_batch present
+06/03/2022 06:10:06 PM:INFO:demo:Fetching records from collection
+06/03/2022 06:13:29 PM:INFO:demo:Database batch_data present
+06/03/2022 06:13:29 PM:INFO:demo:Database batch_data present
+06/03/2022 06:13:29 PM:INFO:demo:Collection regression_batch present
+06/03/2022 06:13:29 PM:INFO:demo:Collection regression_batch present
+06/03/2022 06:13:29 PM:INFO:demo:Fetching records from collection
+06/03/2022 06:13:29 PM:INFO:demo:Fetching records from collection
+06/03/2022 06:15:23 PM:INFO:demo:Database batch_data present
+06/03/2022 06:15:23 PM:INFO:demo:Database batch_data present
+06/03/2022 06:15:23 PM:INFO:demo:Database batch_data present
+06/03/2022 06:15:23 PM:INFO:demo:Collection regression_batch present
+06/03/2022 06:15:23 PM:INFO:demo:Collection regression_batch present
+06/03/2022 06:15:23 PM:INFO:demo:Collection regression_batch present
+06/03/2022 06:15:23 PM:INFO:demo:Fetching records from collection
+06/03/2022 06:15:23 PM:INFO:demo:Fetching records from collection
+06/03/2022 06:15:23 PM:INFO:demo:Fetching records from collection
+06/03/2022 06:16:12 PM:INFO:demo:Database batch_data present
+06/03/2022 06:16:12 PM:INFO:demo:Database batch_data present
+06/03/2022 06:16:12 PM:INFO:demo:Database batch_data present
+06/03/2022 06:16:12 PM:INFO:demo:Database batch_data present
+06/03/2022 06:16:12 PM:INFO:demo:Collection regression_batch present
+06/03/2022 06:16:12 PM:INFO:demo:Collection regression_batch present
+06/03/2022 06:16:12 PM:INFO:demo:Collection regression_batch present
+06/03/2022 06:16:12 PM:INFO:demo:Collection regression_batch present
+06/03/2022 06:16:12 PM:INFO:demo:Fetching records from collection
+06/03/2022 06:16:12 PM:INFO:demo:Fetching records from collection
+06/03/2022 06:16:12 PM:INFO:demo:Fetching records from collection
+06/03/2022 06:16:12 PM:INFO:demo:Fetching records from collection
+06/03/2022 07:34:03 PM:INFO:demo:Database batch_data present
+06/03/2022 07:34:03 PM:INFO:demo:Collection regression_batch present
+06/03/2022 07:34:03 PM:INFO:demo:Fetching records from collection
+06/03/2022 07:36:40 PM:INFO:demo:Database batch_data present
+06/03/2022 07:36:40 PM:INFO:demo:Collection regression_batch present
+06/03/2022 07:36:40 PM:INFO:demo:Fetching records from collection
+06/03/2022 07:41:31 PM:INFO:demo:Database batch_data present
+06/03/2022 07:41:31 PM:INFO:demo:Collection regression_batch present
+06/03/2022 07:41:31 PM:INFO:demo:Fetching records from collection
+06/03/2022 07:47:29 PM:INFO:demo:Database batch_data present
+06/03/2022 07:47:29 PM:INFO:demo:Collection regression_batch present
+06/03/2022 07:47:29 PM:INFO:demo:Fetching records from collection
+06/03/2022 07:48:41 PM:INFO:demo:Database batch_data present
+06/03/2022 07:48:41 PM:INFO:demo:Database batch_data present
+06/03/2022 07:48:41 PM:INFO:demo:Collection regression_batch present
+06/03/2022 07:48:41 PM:INFO:demo:Collection regression_batch present
+06/03/2022 07:48:41 PM:INFO:demo:Fetching records from collection
+06/03/2022 07:48:41 PM:INFO:demo:Fetching records from collection
+06/03/2022 07:50:07 PM:INFO:demo:Database batch_data present
+06/03/2022 07:50:07 PM:INFO:demo:Collection regression_batch present
+06/03/2022 07:50:07 PM:INFO:demo:Fetching records from collection
+06/03/2022 07:50:40 PM:INFO:demo:Database batch_data present
+06/03/2022 07:50:40 PM:INFO:demo:Database batch_data present
+06/03/2022 07:50:40 PM:INFO:demo:Collection regression_batch present
+06/03/2022 07:50:40 PM:INFO:demo:Collection regression_batch present
+06/03/2022 07:50:40 PM:INFO:demo:Fetching records from collection
+06/03/2022 07:50:40 PM:INFO:demo:Fetching records from collection
+06/03/2022 07:52:28 PM:INFO:demo:Database batch_data present
+06/03/2022 07:52:28 PM:INFO:demo:Database batch_data present
+06/03/2022 07:52:28 PM:INFO:demo:Database batch_data present
+06/03/2022 07:52:28 PM:INFO:demo:Collection regression_batch present
+06/03/2022 07:52:28 PM:INFO:demo:Collection regression_batch present
+06/03/2022 07:52:28 PM:INFO:demo:Collection regression_batch present
+06/03/2022 07:52:28 PM:INFO:demo:Fetching records from collection
+06/03/2022 07:52:28 PM:INFO:demo:Fetching records from collection
+06/03/2022 07:52:28 PM:INFO:demo:Fetching records from collection
+06/03/2022 07:54:42 PM:INFO:demo:Database batch_data present
+06/03/2022 07:54:42 PM:INFO:demo:Collection regression_batch present
+06/03/2022 07:54:42 PM:INFO:demo:Fetching records from collection
+06/03/2022 07:55:08 PM:INFO:demo:Database batch_data present
+06/03/2022 07:55:08 PM:INFO:demo:Database batch_data present
+06/03/2022 07:55:08 PM:INFO:demo:Collection regression_batch present
+06/03/2022 07:55:08 PM:INFO:demo:Collection regression_batch present
+06/03/2022 07:55:08 PM:INFO:demo:Fetching records from collection
+06/03/2022 07:55:08 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:29:42 PM:INFO:demo:Database batch_data present
+06/03/2022 08:29:42 PM:INFO:demo:Database batch_data present
+06/03/2022 08:29:42 PM:INFO:demo:Database batch_data present
+06/03/2022 08:29:42 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:29:42 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:29:42 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:29:42 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:29:42 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:29:42 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:30:31 PM:INFO:demo:Database batch_data present
+06/03/2022 08:30:31 PM:INFO:demo:Database batch_data present
+06/03/2022 08:30:31 PM:INFO:demo:Database batch_data present
+06/03/2022 08:30:31 PM:INFO:demo:Database batch_data present
+06/03/2022 08:30:31 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:30:31 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:30:31 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:30:31 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:30:31 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:30:31 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:30:31 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:30:31 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:31:15 PM:INFO:demo:Database batch_data present
+06/03/2022 08:31:15 PM:INFO:demo:Database batch_data present
+06/03/2022 08:31:15 PM:INFO:demo:Database batch_data present
+06/03/2022 08:31:15 PM:INFO:demo:Database batch_data present
+06/03/2022 08:31:15 PM:INFO:demo:Database batch_data present
+06/03/2022 08:31:15 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:31:15 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:31:15 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:31:15 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:31:15 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:31:15 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:31:15 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:31:15 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:31:15 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:31:15 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:31:39 PM:INFO:demo:Database batch_data present
+06/03/2022 08:31:39 PM:INFO:demo:Database batch_data present
+06/03/2022 08:31:39 PM:INFO:demo:Database batch_data present
+06/03/2022 08:31:39 PM:INFO:demo:Database batch_data present
+06/03/2022 08:31:39 PM:INFO:demo:Database batch_data present
+06/03/2022 08:31:39 PM:INFO:demo:Database batch_data present
+06/03/2022 08:31:39 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:31:39 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:31:39 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:31:39 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:31:39 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:31:39 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:31:39 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:31:39 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:31:39 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:31:39 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:31:39 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:31:39 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:47:16 PM:INFO:demo:Database batch_data present
+06/03/2022 08:47:16 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:47:16 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:48:32 PM:INFO:demo:Database batch_data present
+06/03/2022 08:48:32 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:48:32 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:50:20 PM:INFO:demo:Database batch_data present
+06/03/2022 08:50:20 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:50:20 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:52:22 PM:INFO:demo:Database batch_data present
+06/03/2022 08:52:22 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:52:22 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:53:02 PM:INFO:demo:Database batch_data present
+06/03/2022 08:53:02 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:53:02 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:53:32 PM:INFO:demo:Database batch_data present
+06/03/2022 08:53:32 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:53:32 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:54:50 PM:INFO:demo:Database batch_data present
+06/03/2022 08:54:51 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:54:51 PM:INFO:demo:Fetching records from collection
+06/03/2022 08:55:48 PM:INFO:demo:Database batch_data present
+06/03/2022 08:55:48 PM:INFO:demo:Collection regression_batch present
+06/03/2022 08:55:48 PM:INFO:demo:Fetching records from collection
+06/03/2022 09:54:46 PM:INFO:demo:Database batch_data present
+06/03/2022 09:54:46 PM:INFO:demo:Collection regression_batch present
+06/03/2022 09:54:46 PM:INFO:demo:Fetching records from collection
+06/03/2022 09:57:29 PM:INFO:demo:Database batch_data present
+06/03/2022 09:57:29 PM:INFO:demo:Collection regression_batch present
+06/03/2022 09:57:29 PM:INFO:demo:Fetching records from collection
+06/03/2022 09:58:33 PM:INFO:demo:Database batch_data present
+06/03/2022 09:58:33 PM:INFO:demo:Database batch_data present
+06/03/2022 09:58:33 PM:INFO:demo:Collection regression_batch present
+06/03/2022 09:58:33 PM:INFO:demo:Collection regression_batch present
+06/03/2022 09:58:33 PM:INFO:demo:Fetching records from collection
+06/03/2022 09:58:33 PM:INFO:demo:Fetching records from collection
+06/03/2022 10:01:04 PM:INFO:demo:Database batch_data present
+06/03/2022 10:01:04 PM:INFO:demo:Database batch_data present
+06/03/2022 10:01:04 PM:INFO:demo:Database batch_data present
+06/03/2022 10:01:04 PM:INFO:demo:Collection regression_batch present
+06/03/2022 10:01:04 PM:INFO:demo:Collection regression_batch present
+06/03/2022 10:01:04 PM:INFO:demo:Collection regression_batch present
+06/03/2022 10:01:04 PM:INFO:demo:Fetching records from collection
+06/03/2022 10:01:04 PM:INFO:demo:Fetching records from collection
+06/03/2022 10:01:04 PM:INFO:demo:Fetching records from collection
+06/03/2022 10:02:59 PM:INFO:demo:Database batch_data present
+06/03/2022 10:02:59 PM:INFO:demo:Database batch_data present
+06/03/2022 10:02:59 PM:INFO:demo:Database batch_data present
+06/03/2022 10:02:59 PM:INFO:demo:Database batch_data present
+06/03/2022 10:02:59 PM:INFO:demo:Collection regression_batch present
+06/03/2022 10:02:59 PM:INFO:demo:Collection regression_batch present
+06/03/2022 10:02:59 PM:INFO:demo:Collection regression_batch present
+06/03/2022 10:02:59 PM:INFO:demo:Collection regression_batch present
+06/03/2022 10:02:59 PM:INFO:demo:Fetching records from collection
+06/03/2022 10:02:59 PM:INFO:demo:Fetching records from collection
+06/03/2022 10:02:59 PM:INFO:demo:Fetching records from collection
+06/03/2022 10:02:59 PM:INFO:demo:Fetching records from collection
+06/03/2022 11:33:54 PM:INFO:demo:Database batch_data present
+06/03/2022 11:33:54 PM:INFO:demo:Collection regression_batch present
+06/03/2022 11:33:54 PM:INFO:demo:Fetching records from collection
+06/03/2022 11:34:01 PM:INFO:demo:Database batch_data present
+06/03/2022 11:34:01 PM:INFO:demo:Database batch_data present
+06/03/2022 11:34:01 PM:INFO:demo:Collection regression_batch present
+06/03/2022 11:34:01 PM:INFO:demo:Collection regression_batch present
+06/03/2022 11:34:01 PM:INFO:demo:Fetching records from collection
+06/03/2022 11:34:01 PM:INFO:demo:Fetching records from collection
+06/03/2022 11:34:08 PM:INFO:demo:Database batch_data present
+06/03/2022 11:34:08 PM:INFO:demo:Database batch_data present
+06/03/2022 11:34:08 PM:INFO:demo:Database batch_data present
+06/03/2022 11:34:08 PM:INFO:demo:Collection regression_batch present
+06/03/2022 11:34:08 PM:INFO:demo:Collection regression_batch present
+06/03/2022 11:34:08 PM:INFO:demo:Collection regression_batch present
+06/03/2022 11:34:08 PM:INFO:demo:Fetching records from collection
+06/03/2022 11:34:08 PM:INFO:demo:Fetching records from collection
+06/03/2022 11:34:08 PM:INFO:demo:Fetching records from collection
+06/03/2022 11:37:07 PM:INFO:demo:Database batch_data present
+06/03/2022 11:37:07 PM:INFO:demo:Collection regression_batch present
+06/03/2022 11:37:07 PM:INFO:demo:Fetching records from collection
+06/03/2022 11:38:37 PM:INFO:demo:Database batch_data present
+06/03/2022 11:38:37 PM:INFO:demo:Collection regression_batch present
+06/03/2022 11:38:37 PM:INFO:demo:Fetching records from collection
+06/04/2022 09:45:32 AM:INFO:demo:Database batch_data present
+06/04/2022 09:45:32 AM:INFO:demo:Collection classification_batch present
+06/04/2022 09:45:32 AM:INFO:demo:Fetching records from collection
+06/04/2022 09:47:01 AM:INFO:demo:Database batch_data present
+06/04/2022 09:47:01 AM:INFO:demo:Collection classification_batch present
+06/04/2022 09:47:01 AM:INFO:demo:Fetching records from collection
+06/04/2022 09:47:33 AM:INFO:demo:Database batch_data present
+06/04/2022 09:47:33 AM:INFO:demo:Collection classification_batch present
+06/04/2022 09:47:33 AM:INFO:demo:Fetching records from collection
+06/04/2022 09:48:12 AM:INFO:demo:Database batch_data present
+06/04/2022 09:48:12 AM:INFO:demo:Collection classification_batch present
+06/04/2022 09:48:12 AM:INFO:demo:Fetching records from collection
+06/04/2022 09:48:48 AM:INFO:demo:Database batch_data present
+06/04/2022 09:48:48 AM:INFO:demo:Database batch_data present
+06/04/2022 09:48:48 AM:INFO:demo:Collection classification_batch present
+06/04/2022 09:48:48 AM:INFO:demo:Collection classification_batch present
+06/04/2022 09:48:48 AM:INFO:demo:Fetching records from collection
+06/04/2022 09:48:48 AM:INFO:demo:Fetching records from collection
+06/04/2022 09:49:07 AM:INFO:demo:Database batch_data present
+06/04/2022 09:49:07 AM:INFO:demo:Database batch_data present
+06/04/2022 09:49:07 AM:INFO:demo:Database batch_data present
+06/04/2022 09:49:07 AM:INFO:demo:Collection regression_batch present
+06/04/2022 09:49:07 AM:INFO:demo:Collection regression_batch present
+06/04/2022 09:49:07 AM:INFO:demo:Collection regression_batch present
+06/04/2022 09:49:07 AM:INFO:demo:Fetching records from collection
+06/04/2022 09:49:07 AM:INFO:demo:Fetching records from collection
+06/04/2022 09:49:07 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:38:25 AM:INFO:demo:Database batch_data present
+06/04/2022 10:38:25 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:38:25 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:40:11 AM:INFO:demo:Database batch_data present
+06/04/2022 10:40:11 AM:INFO:demo:Database batch_data present
+06/04/2022 10:40:11 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:40:11 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:40:11 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:40:11 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:41:17 AM:INFO:demo:Database batch_data present
+06/04/2022 10:41:17 AM:INFO:demo:Database batch_data present
+06/04/2022 10:41:17 AM:INFO:demo:Database batch_data present
+06/04/2022 10:41:17 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:41:17 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:41:17 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:41:17 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:41:17 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:41:17 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:43:22 AM:INFO:demo:Database batch_data present
+06/04/2022 10:43:22 AM:INFO:demo:Database batch_data present
+06/04/2022 10:43:22 AM:INFO:demo:Database batch_data present
+06/04/2022 10:43:22 AM:INFO:demo:Database batch_data present
+06/04/2022 10:43:22 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:43:22 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:43:22 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:43:22 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:43:22 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:43:22 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:43:22 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:43:22 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:43:57 AM:INFO:demo:Database batch_data present
+06/04/2022 10:43:57 AM:INFO:demo:Database batch_data present
+06/04/2022 10:43:57 AM:INFO:demo:Database batch_data present
+06/04/2022 10:43:57 AM:INFO:demo:Database batch_data present
+06/04/2022 10:43:57 AM:INFO:demo:Database batch_data present
+06/04/2022 10:43:57 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:43:57 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:43:57 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:43:57 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:43:57 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:43:57 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:43:57 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:43:57 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:43:57 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:43:57 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:44:18 AM:INFO:demo:Database batch_data present
+06/04/2022 10:44:18 AM:INFO:demo:Database batch_data present
+06/04/2022 10:44:18 AM:INFO:demo:Database batch_data present
+06/04/2022 10:44:18 AM:INFO:demo:Database batch_data present
+06/04/2022 10:44:18 AM:INFO:demo:Database batch_data present
+06/04/2022 10:44:18 AM:INFO:demo:Database batch_data present
+06/04/2022 10:44:18 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:44:18 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:44:18 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:44:18 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:44:18 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:44:18 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:44:18 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:44:18 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:44:18 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:44:18 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:44:18 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:44:18 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:44:43 AM:INFO:demo:Database batch_data present
+06/04/2022 10:44:43 AM:INFO:demo:Database batch_data present
+06/04/2022 10:44:43 AM:INFO:demo:Database batch_data present
+06/04/2022 10:44:43 AM:INFO:demo:Database batch_data present
+06/04/2022 10:44:43 AM:INFO:demo:Database batch_data present
+06/04/2022 10:44:43 AM:INFO:demo:Database batch_data present
+06/04/2022 10:44:43 AM:INFO:demo:Database batch_data present
+06/04/2022 10:44:43 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:44:43 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:44:43 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:44:43 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:44:43 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:44:43 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:44:43 AM:INFO:demo:Collection classification_batch present
+06/04/2022 10:44:43 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:44:43 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:44:43 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:44:43 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:44:43 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:44:43 AM:INFO:demo:Fetching records from collection
+06/04/2022 10:44:43 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:00:40 AM:INFO:demo:Database batch_data present
+06/04/2022 11:00:40 AM:INFO:demo:Database batch_data present
+06/04/2022 11:00:40 AM:INFO:demo:Database batch_data present
+06/04/2022 11:00:40 AM:INFO:demo:Database batch_data present
+06/04/2022 11:00:40 AM:INFO:demo:Database batch_data present
+06/04/2022 11:00:40 AM:INFO:demo:Database batch_data present
+06/04/2022 11:00:40 AM:INFO:demo:Database batch_data present
+06/04/2022 11:00:40 AM:INFO:demo:Database batch_data present
+06/04/2022 11:00:40 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:00:40 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:00:40 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:00:40 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:00:40 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:00:40 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:00:40 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:00:40 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:00:40 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:00:40 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:00:40 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:00:40 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:00:40 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:00:40 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:00:40 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:00:40 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:14 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:14 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:14 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:14 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:14 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:14 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:14 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:14 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:14 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:14 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:14 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:14 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:14 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:14 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:14 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:14 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:14 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:14 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:14 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:14 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:14 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:14 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:14 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:14 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:14 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:14 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:14 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:37 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:37 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:37 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:37 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:37 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:37 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:37 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:37 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:37 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:37 AM:INFO:demo:Database batch_data present
+06/04/2022 11:01:37 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:37 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:37 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:37 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:37 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:37 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:37 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:37 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:37 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:37 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:01:37 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:37 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:37 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:37 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:37 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:37 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:37 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:37 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:37 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:01:37 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:02:32 AM:INFO:demo:Database batch_data present
+06/04/2022 11:02:32 AM:INFO:demo:Database batch_data present
+06/04/2022 11:02:32 AM:INFO:demo:Database batch_data present
+06/04/2022 11:02:32 AM:INFO:demo:Database batch_data present
+06/04/2022 11:02:32 AM:INFO:demo:Database batch_data present
+06/04/2022 11:02:32 AM:INFO:demo:Database batch_data present
+06/04/2022 11:02:32 AM:INFO:demo:Database batch_data present
+06/04/2022 11:02:32 AM:INFO:demo:Database batch_data present
+06/04/2022 11:02:32 AM:INFO:demo:Database batch_data present
+06/04/2022 11:02:32 AM:INFO:demo:Database batch_data present
+06/04/2022 11:02:32 AM:INFO:demo:Database batch_data present
+06/04/2022 11:02:32 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:02:32 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:02:32 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:02:32 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:02:32 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:02:32 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:02:32 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:02:32 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:02:32 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:02:32 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:02:32 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:02:32 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:02:32 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:02:32 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:02:32 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:02:32 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:02:32 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:02:32 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:02:32 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:02:32 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:02:32 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:02:32 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:04:09 AM:INFO:demo:Database batch_data present
+06/04/2022 11:04:09 AM:INFO:demo:Database batch_data present
+06/04/2022 11:04:09 AM:INFO:demo:Database batch_data present
+06/04/2022 11:04:09 AM:INFO:demo:Database batch_data present
+06/04/2022 11:04:09 AM:INFO:demo:Database batch_data present
+06/04/2022 11:04:09 AM:INFO:demo:Database batch_data present
+06/04/2022 11:04:09 AM:INFO:demo:Database batch_data present
+06/04/2022 11:04:09 AM:INFO:demo:Database batch_data present
+06/04/2022 11:04:09 AM:INFO:demo:Database batch_data present
+06/04/2022 11:04:09 AM:INFO:demo:Database batch_data present
+06/04/2022 11:04:09 AM:INFO:demo:Database batch_data present
+06/04/2022 11:04:09 AM:INFO:demo:Database batch_data present
+06/04/2022 11:04:09 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:04:09 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:04:09 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:04:09 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:04:09 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:04:09 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:04:09 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:04:09 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:04:09 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:04:09 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:04:09 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:04:09 AM:INFO:demo:Collection classification_batch present
+06/04/2022 11:04:09 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:04:09 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:04:09 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:04:09 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:04:09 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:04:09 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:04:09 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:04:09 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:04:09 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:04:09 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:04:09 AM:INFO:demo:Fetching records from collection
+06/04/2022 11:04:09 AM:INFO:demo:Fetching records from collection
+06/04/2022 12:11:39 PM:INFO:demo:Database batch_data present
+06/04/2022 12:11:39 PM:INFO:demo:Collection classification_batch present
+06/04/2022 12:11:39 PM:INFO:demo:Fetching records from collection
+06/04/2022 01:26:18 PM:INFO:demo:Database batch_data present
+06/04/2022 01:26:18 PM:INFO:demo:Collection classification_batch present
+06/04/2022 01:26:18 PM:INFO:demo:Fetching records from collection
+06/04/2022 03:54:39 PM:INFO:demo:Database batch_data present
+06/04/2022 03:54:39 PM:INFO:demo:Collection regression_batch present
+06/04/2022 03:54:39 PM:INFO:demo:Fetching records from collection
+06/04/2022 04:03:50 PM:INFO:demo:Database batch_data present
+06/04/2022 04:03:50 PM:INFO:demo:Collection regression_batch_data present
+06/04/2022 04:03:50 PM:INFO:demo:Fetching records from collection
+06/04/2022 04:04:55 PM:INFO:demo:Database batch_data present
+06/04/2022 04:04:55 PM:INFO:demo:Collection regression_batch_data present
+06/04/2022 04:04:55 PM:INFO:demo:Fetching records from collection
+06/04/2022 04:06:35 PM:INFO:demo:Database batch_data present
+06/04/2022 04:06:35 PM:INFO:demo:Database batch_data present
+06/04/2022 04:06:35 PM:INFO:demo:Collection regression_batch_data present
+06/04/2022 04:06:35 PM:INFO:demo:Collection regression_batch_data present
+06/04/2022 04:06:35 PM:INFO:demo:Fetching records from collection
+06/04/2022 04:06:35 PM:INFO:demo:Fetching records from collection
+06/04/2022 04:07:47 PM:INFO:demo:Database batch_data present
+06/04/2022 04:07:47 PM:INFO:demo:Collection regression_batch_data present
+06/04/2022 04:07:47 PM:INFO:demo:Fetching records from collection
+06/04/2022 04:08:49 PM:INFO:demo:Database batch_data present
+06/04/2022 04:08:49 PM:INFO:demo:Database batch_data present
+06/04/2022 04:08:49 PM:INFO:demo:Collection regression_batch_data present
+06/04/2022 04:08:49 PM:INFO:demo:Collection regression_batch_data present
+06/04/2022 04:08:49 PM:INFO:demo:Fetching records from collection
+06/04/2022 04:08:49 PM:INFO:demo:Fetching records from collection
+06/04/2022 04:11:08 PM:INFO:demo:Database batch_data present
+06/04/2022 04:11:08 PM:INFO:demo:Collection regression_batch_data present
+06/04/2022 04:11:08 PM:INFO:demo:Fetching records from collection
+06/04/2022 04:11:12 PM:INFO:demo:Database batch_data present
+06/04/2022 04:11:12 PM:INFO:demo:Database batch_data present
+06/04/2022 04:11:12 PM:INFO:demo:Collection regression_batch_data present
+06/04/2022 04:11:12 PM:INFO:demo:Collection regression_batch_data present
+06/04/2022 04:11:12 PM:INFO:demo:Fetching records from collection
+06/04/2022 04:11:12 PM:INFO:demo:Fetching records from collection
+06/04/2022 04:11:59 PM:INFO:demo:Database batch_data present
+06/04/2022 04:11:59 PM:INFO:demo:Collection regression_batch_data present
+06/04/2022 04:11:59 PM:INFO:demo:Fetching records from collection
+06/04/2022 04:12:32 PM:INFO:demo:Database batch_data present
+06/04/2022 04:12:32 PM:INFO:demo:Collection regression_batch_data present
+06/04/2022 04:12:32 PM:INFO:demo:Fetching records from collection
+06/04/2022 04:13:08 PM:INFO:demo:Database batch_data present
+06/04/2022 04:13:08 PM:INFO:demo:Collection regression_batch_data present
+06/04/2022 04:13:08 PM:INFO:demo:Fetching records from collection
+06/04/2022 08:53:09 PM:INFO:demo:Database batch_data present
+06/04/2022 08:53:09 PM:INFO:demo:Collection classification_batch present
+06/04/2022 08:53:09 PM:INFO:demo:Fetching records from collection
+06/04/2022 08:53:28 PM:INFO:demo:Database batch_data present
+06/04/2022 08:53:28 PM:INFO:demo:Database batch_data present
+06/04/2022 08:53:28 PM:INFO:demo:Collection classification_batch present
+06/04/2022 08:53:28 PM:INFO:demo:Collection classification_batch present
+06/04/2022 08:53:28 PM:INFO:demo:Fetching records from collection
+06/04/2022 08:53:28 PM:INFO:demo:Fetching records from collection
+06/04/2022 08:54:39 PM:INFO:demo:Database batch_data present
+06/04/2022 08:54:39 PM:INFO:demo:Database batch_data present
+06/04/2022 08:54:39 PM:INFO:demo:Database batch_data present
+06/04/2022 08:54:40 PM:INFO:demo:Collection regression_batch_data present
+06/04/2022 08:54:40 PM:INFO:demo:Collection regression_batch_data present
+06/04/2022 08:54:40 PM:INFO:demo:Collection regression_batch_data present
+06/04/2022 08:54:40 PM:INFO:demo:Fetching records from collection
+06/04/2022 08:54:40 PM:INFO:demo:Fetching records from collection
+06/04/2022 08:54:40 PM:INFO:demo:Fetching records from collection
+06/04/2022 08:56:24 PM:INFO:demo:Database batch_data present
+06/04/2022 08:56:24 PM:INFO:demo:Collection classification_batch present
+06/04/2022 08:56:24 PM:INFO:demo:Fetching records from collection
+06/04/2022 09:00:50 PM:INFO:demo:Database batch_data present
+06/04/2022 09:00:50 PM:INFO:demo:Collection classification_batch present
+06/04/2022 09:00:50 PM:INFO:demo:Fetching records from collection
+06/04/2022 09:05:58 PM:INFO:demo:Database batch_data present
+06/04/2022 09:05:58 PM:INFO:demo:Collection classification_batch present
+06/04/2022 09:05:58 PM:INFO:demo:Fetching records from collection
+06/04/2022 09:24:30 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:24:32 PM:INFO:demo:single_classification initialization successfull
+06/04/2022 09:24:32 PM:INFO:demo:single_classification initialization successfull
+06/04/2022 09:25:18 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:25:18 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:25:18 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:25:18 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:25:19 PM:INFO:demo:batch_classification initialization successfull
+06/04/2022 09:25:19 PM:INFO:demo:batch_classification initialization successfull
+06/04/2022 09:25:19 PM:INFO:demo:batch_classification initialization successfull
+06/04/2022 09:25:19 PM:INFO:demo:batch_classification initialization successfull
+06/04/2022 09:25:19 PM:INFO:demo:batch_classification initialization successfull
+06/04/2022 09:25:23 PM:INFO:demo:Database batch_data present
+06/04/2022 09:25:23 PM:INFO:demo:Database batch_data present
+06/04/2022 09:25:23 PM:INFO:demo:Database batch_data present
+06/04/2022 09:25:23 PM:INFO:demo:Database batch_data present
+06/04/2022 09:25:23 PM:INFO:demo:Database batch_data present
+06/04/2022 09:25:23 PM:INFO:demo:Database batch_data present
+06/04/2022 09:25:23 PM:INFO:demo:Collection classification_batch present
+06/04/2022 09:25:23 PM:INFO:demo:Collection classification_batch present
+06/04/2022 09:25:23 PM:INFO:demo:Collection classification_batch present
+06/04/2022 09:25:23 PM:INFO:demo:Collection classification_batch present
+06/04/2022 09:25:23 PM:INFO:demo:Collection classification_batch present
+06/04/2022 09:25:23 PM:INFO:demo:Collection classification_batch present
+06/04/2022 09:25:23 PM:INFO:demo:Fetching records from collection
+06/04/2022 09:25:23 PM:INFO:demo:Fetching records from collection
+06/04/2022 09:25:23 PM:INFO:demo:Fetching records from collection
+06/04/2022 09:25:23 PM:INFO:demo:Fetching records from collection
+06/04/2022 09:25:23 PM:INFO:demo:Fetching records from collection
+06/04/2022 09:25:23 PM:INFO:demo:Fetching records from collection
+06/04/2022 09:25:23 PM:INFO:demo:db batch_classification initialization successfull
+06/04/2022 09:25:23 PM:INFO:demo:db batch_classification initialization successfull
+06/04/2022 09:25:23 PM:INFO:demo:db batch_classification initialization successfull
+06/04/2022 09:25:23 PM:INFO:demo:db batch_classification initialization successfull
+06/04/2022 09:25:23 PM:INFO:demo:db batch_classification initialization successfull
+06/04/2022 09:25:23 PM:INFO:demo:db batch_classification initialization successfull
+06/04/2022 09:25:24 PM:INFO:demo:Batch Pridiction successfull
+06/04/2022 09:25:24 PM:INFO:demo:Batch Pridiction successfull
+06/04/2022 09:25:24 PM:INFO:demo:Batch Pridiction successfull
+06/04/2022 09:25:24 PM:INFO:demo:Batch Pridiction successfull
+06/04/2022 09:25:24 PM:INFO:demo:Batch Pridiction successfull
+06/04/2022 09:25:24 PM:INFO:demo:Batch Pridiction successfull
+06/04/2022 09:26:08 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:26:08 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:26:08 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:26:08 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:26:08 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:26:08 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:26:08 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:26:09 PM:INFO:demo:single_regression initialization successfull
+06/04/2022 09:26:09 PM:INFO:demo:single_regression initialization successfull
+06/04/2022 09:26:09 PM:INFO:demo:single_regression initialization successfull
+06/04/2022 09:26:09 PM:INFO:demo:single_regression initialization successfull
+06/04/2022 09:26:09 PM:INFO:demo:single_regression initialization successfull
+06/04/2022 09:26:09 PM:INFO:demo:single_regression initialization successfull
+06/04/2022 09:26:09 PM:INFO:demo:single_regression initialization successfull
+06/04/2022 09:26:09 PM:INFO:demo:single_regression initialization successfull
+06/04/2022 09:26:54 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:26:54 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:26:54 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:26:54 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:26:54 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:26:54 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:26:54 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:26:54 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:26:54 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:26:54 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:30:44 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:30:46 PM:INFO:demo:single_classification initialization successfull
+06/04/2022 09:30:46 PM:INFO:demo:single_classification initialization successfull
+06/04/2022 09:52:50 PM:INFO:demo:Index initialization successfull
+06/04/2022 09:52:52 PM:INFO:demo:single_regression initialization successfull
+06/04/2022 09:52:52 PM:INFO:demo:single_regression initialization successfull
+06/04/2022 10:37:16 PM:INFO:demo:Index initialization successfull
+06/04/2022 10:37:19 PM:INFO:demo:single_regression initialization successfull
+06/04/2022 10:37:19 PM:INFO:demo:single_regression initialization successfull
+06/04/2022 10:37:52 PM:ERROR:demo: Something went wrong on predict process
+Traceback (most recent call last):
+  File "C:\Users\SatyaAnshu\PycharmProjects\Forest_fire\app.py", line 115, in predict
+    predict = pickle_reg.predict(input)[0]
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\utils\metaestimators.py", line 113, in <lambda>
+    out = lambda *args, **kwargs: self.fn(obj, *args, **kwargs)  # noqa
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\pipeline.py", line 470, in predict
+    return self.steps[-1][1].predict(Xt, **predict_params)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\ensemble\_forest.py", line 971, in predict
+    X = self._validate_X_predict(X)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\ensemble\_forest.py", line 579, in _validate_X_predict
+    X = self._validate_data(X, dtype=DTYPE, accept_sparse="csr", reset=False)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\base.py", line 566, in _validate_data
+    X = check_array(X, **check_params)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\utils\validation.py", line 746, in check_array
+    array = np.asarray(array, order=order, dtype=dtype)
+ValueError: could not convert string to float: 'fire'
+06/04/2022 10:37:52 PM:ERROR:demo: Something went wrong on predict process
+Traceback (most recent call last):
+  File "C:\Users\SatyaAnshu\PycharmProjects\Forest_fire\app.py", line 115, in predict
+    predict = pickle_reg.predict(input)[0]
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\utils\metaestimators.py", line 113, in <lambda>
+    out = lambda *args, **kwargs: self.fn(obj, *args, **kwargs)  # noqa
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\pipeline.py", line 470, in predict
+    return self.steps[-1][1].predict(Xt, **predict_params)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\ensemble\_forest.py", line 971, in predict
+    X = self._validate_X_predict(X)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\ensemble\_forest.py", line 579, in _validate_X_predict
+    X = self._validate_data(X, dtype=DTYPE, accept_sparse="csr", reset=False)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\base.py", line 566, in _validate_data
+    X = check_array(X, **check_params)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\utils\validation.py", line 746, in check_array
+    array = np.asarray(array, order=order, dtype=dtype)
+ValueError: could not convert string to float: 'fire'
+06/04/2022 10:37:52 PM:ERROR:demo: Something went wrong on predict process
+Traceback (most recent call last):
+  File "C:\Users\SatyaAnshu\PycharmProjects\Forest_fire\app.py", line 115, in predict
+    predict = pickle_reg.predict(input)[0]
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\utils\metaestimators.py", line 113, in <lambda>
+    out = lambda *args, **kwargs: self.fn(obj, *args, **kwargs)  # noqa
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\pipeline.py", line 470, in predict
+    return self.steps[-1][1].predict(Xt, **predict_params)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\ensemble\_forest.py", line 971, in predict
+    X = self._validate_X_predict(X)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\ensemble\_forest.py", line 579, in _validate_X_predict
+    X = self._validate_data(X, dtype=DTYPE, accept_sparse="csr", reset=False)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\base.py", line 566, in _validate_data
+    X = check_array(X, **check_params)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\utils\validation.py", line 746, in check_array
+    array = np.asarray(array, order=order, dtype=dtype)
+ValueError: could not convert string to float: 'fire'
+06/04/2022 10:39:25 PM:INFO:demo:single_regression initialization successfull
+06/04/2022 10:39:50 PM:ERROR:demo: Something went wrong on predict process
+Traceback (most recent call last):
+  File "C:\Users\SatyaAnshu\PycharmProjects\Forest_fire\app.py", line 116, in predict
+    predict = pickle_reg.predict(input)[0]
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\utils\metaestimators.py", line 113, in <lambda>
+    out = lambda *args, **kwargs: self.fn(obj, *args, **kwargs)  # noqa
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\pipeline.py", line 470, in predict
+    return self.steps[-1][1].predict(Xt, **predict_params)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\ensemble\_forest.py", line 971, in predict
+    X = self._validate_X_predict(X)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\ensemble\_forest.py", line 579, in _validate_X_predict
+    X = self._validate_data(X, dtype=DTYPE, accept_sparse="csr", reset=False)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\base.py", line 566, in _validate_data
+    X = check_array(X, **check_params)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\utils\validation.py", line 746, in check_array
+    array = np.asarray(array, order=order, dtype=dtype)
+ValueError: could not convert string to float: 'fire'
+06/04/2022 10:39:50 PM:ERROR:demo: Something went wrong on predict process
+Traceback (most recent call last):
+  File "C:\Users\SatyaAnshu\PycharmProjects\Forest_fire\app.py", line 116, in predict
+    predict = pickle_reg.predict(input)[0]
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\utils\metaestimators.py", line 113, in <lambda>
+    out = lambda *args, **kwargs: self.fn(obj, *args, **kwargs)  # noqa
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\pipeline.py", line 470, in predict
+    return self.steps[-1][1].predict(Xt, **predict_params)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\ensemble\_forest.py", line 971, in predict
+    X = self._validate_X_predict(X)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\ensemble\_forest.py", line 579, in _validate_X_predict
+    X = self._validate_data(X, dtype=DTYPE, accept_sparse="csr", reset=False)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\base.py", line 566, in _validate_data
+    X = check_array(X, **check_params)
+  File "C:\Users\SatyaAnshu\anaconda3\envs\Forest_fire\lib\site-packages\sklearn\utils\validation.py", line 746, in check_array
+    array = np.asarray(array, order=order, dtype=dtype)
+ValueError: could not convert string to float: 'fire'
+06/04/2022 10:41:26 PM:INFO:demo:single_regression initialization successfull
+06/04/2022 10:44:19 PM:INFO:demo:single_regression initialization successfull
+06/04/2022 10:44:27 PM:INFO:demo:Database batch_data present
+06/04/2022 10:44:27 PM:INFO:demo:Database batch_data present
+06/04/2022 10:44:27 PM:INFO:demo:Database batch_data present
+06/04/2022 10:44:27 PM:INFO:demo:Collection regression_batch present
+06/04/2022 10:44:27 PM:INFO:demo:Collection regression_batch present
+06/04/2022 10:44:27 PM:INFO:demo:Collection regression_batch present
+06/04/2022 10:44:27 PM:INFO:demo:Fetching records from collection
+06/04/2022 10:44:27 PM:INFO:demo:Fetching records from collection
+06/04/2022 10:44:27 PM:INFO:demo:Fetching records from collection
+06/04/2022 10:44:27 PM:INFO:demo:db batch_regression initialization successfull
+06/04/2022 10:44:27 PM:INFO:demo:db batch_regression initialization successfull
+06/04/2022 10:44:27 PM:INFO:demo:db batch_regression initialization successfull
+06/04/2022 10:44:27 PM:INFO:demo:batch_regression successfull
+06/04/2022 10:44:27 PM:INFO:demo:batch_regression successfull
+06/04/2022 10:44:27 PM:INFO:demo:batch_regression successfull
